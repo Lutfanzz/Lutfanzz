@@ -24,6 +24,4 @@ I'm an Information Technology undergraduate at **Institut Teknologi Sepuluh Nope
 
 
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Lutfanzz&theme=tokyonight&hide_border=true" alt="Lutfanzz's GitHub Streak" />
-</div>
+
