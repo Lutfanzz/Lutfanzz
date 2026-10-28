@@ -22,20 +22,7 @@ I'm an Information Technology undergraduate at **Institut Teknologi Sepuluh Nope
 **Tools & Environment:**  
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Antigravity](https://img.shields.io/badge/Antigravity-%234B0082.svg?style=for-the-badge) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/Lutfanzz?style=for-the-badge&logo=github&color=24292e" alt="Followers" />
-  <img src="https://img.shields.io/badge/Public%20Repos-14-24292e?style=for-the-badge&logo=github" alt="Repos" />
-  <img src="https://komarev.com/ghpvc/?username=Lutfanzz&style=for-the-badge&color=24292e&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lutfanzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="Lutfanzz's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lutfanzz&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="170" alt="Lutfanzz's Top Languages" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Lutfanzz&theme=tokyonight&hide_border=true" alt="Lutfanzz's GitHub Streak" />
